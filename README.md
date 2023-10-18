@@ -20,9 +20,9 @@
 ### :man_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and always looking to learn more stuff by building and working on exciting projects.
 
--  :zap:In addition, I am pursuing a Masters degree in Computer Science - Information Systems at the Politenyc of Viseu.
+-  :zap: In addition, I am pursuing a Masters degree in Computer Science - Information Systems at the Politenyc of Viseu.
 
-- :seedling: In my free time, I like to stay active and take care of my health by doing physical exercises and read tech articles.
+- :seedling: In my free time: I like to stay active, mind and body, and take care of my health by doing physical exercise and reading tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-saraiva-999597248/) or [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaosaraiva.s.js@gmail.com)
 
