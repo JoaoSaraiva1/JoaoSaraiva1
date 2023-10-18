@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and always looking to learn more stuff by building and working on exciting projects.
 
 -  :zap:In addition, I am pursuing a Masters degree in Computer Science - Information Systems at the Politenyc of Viseu.
 
